@@ -42,8 +42,12 @@ All the components have their values printed on the board, and those values were
 
 ![Image of the board design](/images/board_design.png)
 
-![Image of the board design](/images/drc_summary.png)
+![Image of the board's DRC](/images/drc_summary.png)
 
-![Image of the board design](/images/schematic_altium.png)
+![Image of the altium schematic (tx and rx)](/images/schematic_altium.png)
 
-![Image of the board design](/images/fft_ltspice.png)
+![Image of the board's performance](/images/fft_ltspice.png)
+
+![Image of the board's LTSpice rx design](/images/schematic_rx_ltspice.png)
+
+![Image of the board's LTSpice tx design](/images/schematic_tx_ltspice.png)
