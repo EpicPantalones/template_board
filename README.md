@@ -30,10 +30,10 @@ All the components have their values printed on the board, and those values were
 | 100              | x2           |                                                                    |
 | 6                | x1           | can be made with mult. or use a power resistor                     |
 | **Misc**         |              |                                                                    |
-| MCP6002          | x1           | Part of the kit                                                    |
-| 2106A            | x1           | Part of the kit                                                    |
-| LED              | x1           | Part of the kit                                                    |
-| Photodiode       | x1           | Part of the kit                                                    |
+| MCP6002          | x1           | Part of the labkit                                                 |
+| 2106A            | x1           | Part of the labkit                                                 |
+| LED              | x1           | Part of the labkit                                                 |
+| Photodiode       | x1           | Part of the labkit                                                 |
 | 4-pin header (F) | x1           |                                                                    |
 | 2-pin jumper     | x1           |                                                                    |
 | 1-pin TP         | x2           |                                                                    |
