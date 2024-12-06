@@ -68,7 +68,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XZDIDKGW
 
 [Document2]
-DocumentPath=J:\Altium\Lab_M3\PCB1.PcbDoc
+DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
