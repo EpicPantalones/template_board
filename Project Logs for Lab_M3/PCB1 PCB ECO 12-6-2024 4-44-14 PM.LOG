@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=J1 Old Footprint=FP-M22-2510205-MFG New Footprint=FP-M20-9990246-MFG
+Change Component Comment : Designator=J1 Old Comment=M22-2510205 New Comment=M20-9990246
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=9608EC97-F5C3-4098-AA3E-09A05FEF1E2D New VaultGUID=4E22B116-559C-4EC2-83E9-850241930677 Old ItemGUID=a2463a0b-2e76-47ad-baf0-ed9e45b65b9f New ItemGUID=c8db36c3-56aa-45e9-ba3d-0110b6c1a664 Old RevisionGUID=8dd0af70-2b31-42f2-a284-9d6a1aa732ba New RevisionGUID=c216f897-0d4f-4e22-8142-236e2abd26eb
+Change component parameters: Designator = "J1" ("J1"); Footprint = "FP-M22-2510205-MFG"; UniqueID = "\MWDTAQGB" ("\MWDTAQGB")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
