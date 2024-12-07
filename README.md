@@ -1,4 +1,4 @@
-# Template Board Design for 340
+# Template Board Design for 340 (Inverting)
 
 ## General Information
 
