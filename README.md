@@ -4,6 +4,7 @@
 
 Here everything you need:
 
+- a smile on your face, this is hard to do
 - The completed board design is ready to go - `template_inverting.zip` is ready to be uploaded to JLC as-is.
 - If you want to inspect the board design in Altium or make changes, this repo is also the Altium project itself. Open `Lab_M3.PrjPcb` to view it.
 - There are several reference images and utilities contain in `media/`, most of which are also listed below.
